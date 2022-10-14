@@ -1,4 +1,4 @@
-![top](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+
 
 <h1 align="center">Hi 👋 I'm Kanon Chakma</h1>
 <h3 align="center">Currently working as a junior full stack developer.</h3>
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **kanon121chakma@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
