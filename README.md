@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Currently working as a junior full stack developer.</h3>
+<!-- <h3 align="center">Currently working as a junior full stack developer.</h3> -->
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b761105bd2f8a75db0d3f710d645a7e480437e49b5c50&rid=giphy.gif&ct=g">
 
